@@ -1,0 +1,6 @@
+Northwind Project
+
+Criação de uma DAL.
+ Criação de classes que representam as tabelas.
+Ciração de metodos onde seram definidos os métodos de selecção e manipulação das tabelas da BD Northwind.
+
