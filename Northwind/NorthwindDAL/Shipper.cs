@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace NorthwindDAL
 {
-    public class Class1
+    public class Shipper
     {
+        public int ID { get; set; }
+        public string Name { get; set; }
+        public string Phone { get; set; }
     }
 }
